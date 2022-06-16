@@ -25,6 +25,7 @@ public class ProductsController {
     
     Autowired burada kim ProductServiceyi implemente ediyorsa (ProductManager) onu buluyor
     ProductManager o = new ProductManager() işlemini yapıyor.
+    ve buraya atıyor.
     
                   */
 	public ProductsController(ProductService productService) {
