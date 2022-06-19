@@ -1,6 +1,6 @@
 package kodlamaio.northwind.core.utilities.results;
 
-public class Result {
+public class Result {  // super type yani aslında interface görevi görür tek başına da iş görür
 	
 	private boolean success;
 	private String message;

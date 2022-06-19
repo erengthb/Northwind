@@ -25,6 +25,7 @@ public class DataResult<T> extends Result {  //birden fazla veri tipi olabileceÄ
 		
 		return this.data;
 		
+		
 	}
 
 	
